@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://magnetic-slots-gr.pages.dev/sitemap.xml
+Sitemap: https://magnetic-slots-gr-5y9.pages.dev/sitemap.xml
